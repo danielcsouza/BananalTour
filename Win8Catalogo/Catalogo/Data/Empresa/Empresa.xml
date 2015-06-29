@@ -1,0 +1,53 @@
+﻿<Empresa xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Endereco>Bananal - SP</Endereco>
+  <ImageUrl>Assets/Empresa/bananal-estacao-modular_ed.jpg</ImageUrl>
+  <LiveTileBig1>Assets/BigLiveTile1.jpg</LiveTileBig1>
+  <LiveTileBig2>Assets/BigLiveTile2.jpg</LiveTileBig2>
+  <LiveTileSmall1>Assets/SmallLiveTile1.jpg</LiveTileSmall1>
+  <LiveTileSmall2>Assets/SmallLiveTile2.jpg</LiveTileSmall2>
+  <Nome>Bananal Tour</Nome>
+  <RazaoSocial>Informações Turísticas</RazaoSocial>
+  <SettingsContato>
+    Este aplicativo foi desenvolvido para a participação no appDay. Iniciativa da Microsoft Brasil.
+    
+    Caso queira contatar o desenvolvedor mande um e-mail para 
+    
+    daniel.carlos.souza@gmail.com
+    
+  </SettingsContato>
+  <SettingsPolitica>
+    Este aplcativo, não faz uso de internet para apresentar qualquer conteúdo, não compartilhamos suas informações.
+    O aplicativo faz uso das funcionalidades de compartilhamento (Share) do Windows 8, assim como a funcionalidade de busca (Search) também do Windows 8.
+    As fotos exibidas no aplicativo foram retiradas da própria internet.
+  </SettingsPolitica>
+  <SettingsSobre>
+    Este aplicativo foi desenvolvido para a participação no appDay. Iniciativa da Microsoft Brasil. Você encontrará informações sobre alguns pontos turísticos da cidade de Bananal - SP.
+    As fotos e informações sobre a cidade foram retiradas da Internet.
+    
+    Programador
+    Daniel Carlos de Souza
+  </SettingsSobre>  
+  <ShareTexto>
+    Bananal Tour!
+    Conheça um pouco mais sobre esta linda cidade do interior do estado de São Paulo!
+  </ShareTexto>
+  <Sobre>Sejam bem vindo ao Bananal Tour!
+    Por meio deste aplicativo você conhecerá um pouco mais sobre a cidade de Bananal que fica no interior do estado de São Paulo. Uma cidade pacata, amistosa e com uma população muito agradável e gentil.
+    Saiba mais sobre as atrações e pontos turísticos da nossa cidade por meio deste aplicativo.
+
+    E não deixe de nos visitar!!
+
+    Localização por GPS.: -22.680015, -44.319921
+  </Sobre>
+  <Telefones>
+    <Telefone>
+      <Numero>(11) 99999-99999</Numero>
+      <Tipo>Comercial</Tipo>
+    </Telefone>
+    <Telefone>
+      <Numero>(11) 99999-99999</Numero>
+      <Tipo>Celular</Tipo>
+    </Telefone>
+  </Telefones>
+  <Website>http://br.linkedin.com/pub/daniel-carlos-de-souza/2b/297/a20/</Website>
+</Empresa>

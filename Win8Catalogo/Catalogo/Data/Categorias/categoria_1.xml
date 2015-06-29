@@ -1,0 +1,79 @@
+﻿<Categoria xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Descricao>Conheça os casarões históricos. Muitos deles tombado como patrimônio histórico. Casarões centenários construidos por barões do café.
+  </Descricao>
+  <ID>1</ID>
+  <ImageUrl>Assets/Categoria/casarao_destaque.png</ImageUrl>
+  <Items>
+    <Item>
+      <Descricao>
+        Casarão histórico onde hoje se situa a loja de moveis  Modular Móveis.
+        
+        
+      </Descricao>
+      <ID>Cat1_1</ID>
+      <ImageUrl>Assets/Items/Categoria1/casarao_1.jpg</ImageUrl>
+      <Nome>Móveis Modular</Nome>
+      <SubTitulo>Móveis Modular </SubTitulo>
+      <Uri></Uri>
+    </Item>
+    <Item>
+      <Descricao>O Capitão José de Aguiar Toledo, ainda muito moço casou-se com Maria do Espírito Santo Ribeiro Vallim. O jovem casal vai morar então no bairro do Retiro onde começa a cultivar e fabricar o anil.
+        Com o passar do tempo ele adquire a Fazenda Bahia e começa a desenvolver o cultivo do café, formando assim uma colossal plantação de café. Outros fazendeiros vinham abastecer-se para começar novas plantações. Formou depois a Fazenda Resgate.
+        Adquirindo mais terras, tornou-se assim um dos mais afortunados de Bananal, com vastas plantações de café. Deixando toda a sua fortuna para seus nove filhos, que continuaram com igual sucesso.
+        As terras da Fazenda Bahia foram anexadas a Fazenda Bela Vista.O Capitão José de Aguiar Toledo tinha grande influência na localidade, ele era considerado o mais enérgicos e mais inteligente entre os notáveis da vila.
+        As famílias Vallim, Aguiar e Toledo mesclaram-se e, em Bananal formaram verdadeiro clã. Em 1855 foi construído o solar Aguiar Valim para em seus salões receber autoridades do Império. Ocupa toda a lateral da Praça Rubião Junior.
+        Suas características são neoclássicas, suas portas principais são em arco pleno e a escada principal tem lances simétricos. Com um magnífico hall e murais feitos pelo artista catalão José Maria Villaronga, com um primoroso acabamento.
+        O sobrado possui salão de baile com coreto para a orquestra; nesse salão resta alguns vestígios de pinturas de Villaronga. O comendador Manoel de Aguiar Vallim abria seus salões para a festas e recebimento de altos dignatários do Império, entre outros, o Conde d’Eu.
+        Em 1911, depois de reformado, passou a funcionar nele o Grupo Escolar Coronel Nogueira Cobra. Augusto Emilia Zaluar assim se refere ao Solar, em 1860, na sua “Peregrinação pela Província de São Paulo”; “A povoação tem prédios dignos de uma capital, entre elas o do Comendador Manoel de Aguiar Vallim, no Largo do Rosário.”
+        Em 1976 foi tombado pelo Condephaat e por um período foi sede da prefeitura. Hoje passa por uma grande reforma interna, abrigando lá, a ABATUR (Assoc. Bananalense de Turismo), onde você pode tirar qualquer duvida sobre a história de Bananal.
+        Localização: Praça Rubião Junior – Centro.
+        
+        Fonte: bananal.net.br
+      </Descricao>
+      <ID>Cat1_2</ID>
+      <ImageUrl>Assets/Items/Categoria1/solar_aguiar_valim.jpg</ImageUrl>
+      <Nome>Solar Aguiar Valim</Nome>
+      <SubTitulo>Solar Aguiar Valim</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        Um dos mais bonitos conjuntos arquitetônicos da cidade, construído em 1871.
+        Composta por 3 sobrados, todos de frente pra Praça Pedro Ramos ou Praça da Matriz como também é conhecida.
+        Esse solar foi construído pelo comendador Luciano José de Almeida, em 1847, possui 13 portas que se abrem para uma sacada, seu pátio interno tinha espaço suficiente para manobras de carruagem.
+        Em 1928 foi inaugurada a antiga Rio - São Paulo.
+        Mais tarde no ano de 1930, o inglês Robert Passing comprou-o e transformou-o em hotel, fazendo com que o hotel abrigasse muitos viajantes.
+        
+        Localização: Praça Pedro Ramos – Centro
+
+        Fonte: Bananal.net.br
+      </Descricao>
+      <ID>Cat1_3</ID>
+      <ImageUrl>Assets/Items/Categoria1/casario005.jpg</ImageUrl>
+      <Nome>Sobrado Praça Ramos</Nome>
+      <SubTitulo>Sobrado da Praça Ramos</SubTitulo>
+      <Uri></Uri>
+      </Item>
+    <Item>
+      <Descricao>Um dos mais bonitos conjuntos arquitetônicos da cidade, construído em 1871.
+        Composta por 3 sobrados, todos de frente pra Praça Pedro Ramos ou Praça da Matriz como também é conhecida.
+        Um dos casarões abriga hoje o Hotel Brasil. Esse solar foi construído pelo comendador Luciano José de Almeida, em 1847, possui 13 portas que se abrem para uma sacada, seu pátio interno tinha espaço suficiente para manobras de carruagem.
+        Em 1928 foi inaugurada a antiga Rio - São Paulo.
+        Mais tarde no ano de 1930, o inglês Robert Passing comprou-o e transformou-o em hotel, fazendo com que o hotel abrigasse muitos viajantes.
+        O Hotel existe até hoje em funcionamento, porém já não é mais do mesmo proprietário.
+        Localização: Praça Pedro Ramos – Centro
+        
+        Fonte: Bananal.net.br
+      </Descricao>
+      <ID>Cat1_4</ID>
+      <ImageUrl>Assets/Items/Categoria1/casario006.jpg</ImageUrl>
+      <Nome>Hotel Brasil</Nome>
+      <SubTitulo>Hotel Brasil</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+   </Items>
+  <Nome>Casarões</Nome>
+  <SubTitulo>Patrimônio Histórico</SubTitulo>
+</Categoria>

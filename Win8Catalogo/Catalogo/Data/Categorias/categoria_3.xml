@@ -1,0 +1,77 @@
+﻿<Categoria xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Descricao>
+     Nas diversas fazendas você pode conhecer algumas peças do mobiliário colonial, a arquitetura e alguns artigos de decoração, em ótimo estado de preservação.
+  </Descricao>
+  <ID>3</ID>
+  <ImageUrl>Assets/Categoria/boa_vista.png</ImageUrl>
+  <Items>
+    <Item>
+      <Descricao>A Fazenda dos Coqueiros envolve muitos mistérios e histórias. Um ponto turístico impossível de não visitar.
+        Atualmente a propriedade pertence a Antonio Augusto F. Gomes e Maria Elizabeth Brum G. Gomes. Hoje a fazenda trabalha com produção de leite e com o turismo, a visitação é permitida com hora marcada. A fazenda mantém até hoje sua estrutura intacta e ainda, peças originais como móveis antigos, o lavador de café, um moinho com roda de pedra, o terreirão de café, diversos objetos e até mesmo documentos que registram a passagem dos escravos pela fazenda.
+        A senzala doméstica que fica embaixo da casa tem o pé direito bem baixo, para que os escravos não quisessem ficar no local por muito tempo, saindo logo para trabalhar. Ela também está conservada.
+        Nessa fazenda encontrava-se o banheiro mais luxuoso da época. Ele era um cômodo que fica sobre o riacho com uma tábua de madeira com dois buracos servindo como assento.
+        A fazenda foi construída no ano de 1855, pelo casal Cândido Ribeiro Barbosa e sua esposa Sra. Joaquina Maria de Jesus.
+        Na época do nascimento de seu filho, foi constatado que o menino tinha uma doença muito grave, seus pais então resolvem doar seu peso em ouro para a Santa Casa de Misericórdia se ele conseguisse sobreviver até pelo menos seus 15 anos, ficando ele conhecido na cidade como “Menino de Ouro”, mesmo antes de se tornar Barão na fase adulta.
+        A pouco tempo atrás a fazenda foi dividida por causa de partilha de bens, então o Sr. Sinval da Silveira Brum, comprou a parte dos irmãos de sua esposa, reunindo novamente toda a fazenda. O Sr. Sinval era um homem muito rico e poderoso, tinha lojas no Rio de Janeiro e na época da guerra fabricou carros gasogênico ficando intoxicado por esses gases e morrendo em conseqüência dessa inalação. Hoje a Fazenda dos Coqueiros pertence à Família Brum. Que mantém as portas abertas à visitação para os turistas, com guia para contar e mostrar toda a história existente na Fazenda.
+        Localização: Rod. dos Tropeiros, km 309.
+      </Descricao>
+      <ID>Cat3_1</ID>
+      <ImageUrl>Assets/Items/Categoria3/fazenda_coqueiros.jpg</ImageUrl>
+      <Nome>Fazenda dos Coqueiros</Nome>
+      <SubTitulo>Fazenda dos Coqueiros</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        O Hotel Fazenda Três Barras está instalado numa antiga fazenda, construída em 1813, na época do Brasil Império. O Hotel ocupa cinco dos 80 alqueires da propriedade. A Sede da Fazenda mantêm toda a Pujança Aristocrática dos Barões do Café.
+        A arquitetura preservada, as salas, os 28 aposentos amplos, os móveis, a adega e até um coreto, permitem ao turista voltar ao passado e viver um pouco da história de riqueza durante o período do Ciclo do Café. Atualmente, a capacidade de hospedagem do Hotel é de 84 pessoas.
+        Após a restauração, há 11 anos, a parte agropecuária da Fazenda foi mantida.
+        Mas nem só de passado vive o Hotel Fazenda Três Barras. Os hóspedes podem acomodar-se em lindos e aconchegantes chalés, confortáveis apartamentos e desfrutar de todo o lazer oferecido, como: piscinas com toboágua, piscina de hidromassagem, bar molhado, cavalos, lago para pesca e pedalinho, saunas, mini golfe, quadra de tênis, futebol e vôlei, sala de jogos, além de uma grande área verde para você relaxar e curtir a natureza.
+        A culinária é outro atrativo do Hotel. O restaurane tem a mais tradicional cozinha de toda a região, indo do café colonial ao jantar. Onze funcionários fixos trabalham no Hotel e, em época de maior movimento, são contratados funcionários extras.
+
+        Fonte:http://www.hotelfazendatresbarras.com.br/
+      </Descricao>
+      <ID>Cat3_2</ID>
+      <ImageUrl>Assets/Items/Categoria3/HOTEL-FAZENDA-3-BARRAS.jpg</ImageUrl>
+      <Nome>Hotel Fazenda Três Barras</Nome>
+      <SubTitulo>Hotel Fazenda Três Barras</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>A Fazenda Resgate foi adquirida inicialmente pelo brigadeiro Gabriel Monteiro de Barros, filho do visconde de Congonhas do Campo, casado com a bananalense Alda Romana de Oliveira Arruda. No Inicio do século XIX foi vendida para José de Aguiar Toledo e herdada por Manoel de Aguiar Valim.
+        Com o passar dos tempos a fazenda foi crescendo apartir do momento em que Aguiar Valim comprava outras terras ao redor. Manoel trouxe para refinar os ambientes artesãos europeus, tornando-se uma das fazendas mais suntuosas da região.
+        A data de construção da casa da fazenda não tem data conhecida, estima-se que foi construída em 1818 e seu nome é uma referência ao resgate dos negros escravizados na guerra. Conforme informação de descendentes de Avalim, a construção ou reforma teria sido obra do arquiteto Mr. Bruce de nacionalidade inglesa.
+        O Casarão é composto de magníficas salas de estar e jantar, um grande salão na parte da frente com móveis franceses do século XIX, cristais e espelhos belgas, da região da Boêmia. Na sala de visitas você pode encontrar pinturas de José Maria Villaronga com ornamentos dourados.
+        Todo o trabalho de arquitetura e decoração é de muito bom gosto. A porta tem painéis com pinturas que representam pássaros, o teto com belíssimos jardins com plantas exóticas, além da capela com pé direito muito alta. Essa capela foi residência de um padre. Na fazenda você também pode ver o cravo que pertenceu à marquesa de Santos.
+        Nesta fazenda além da produção e café, também se fabricava mel, velas, açúcar, aguardente, farinha de milho e mandioca, tecidos e rendas, todos coordenados por Patrício Cross.
+        Após a morte de Aguiar Valim suas propriedade, inclusive a Estrada de Ferro, foram vendidas para Domingos Moitinho, um empresário português, e seus filhos Álvaro e Fernando.
+        
+        Fonte: Bananal.net.br
+      </Descricao>
+      <ID>Cat3_3</ID>
+      <ImageUrl>Assets/Items/Categoria3/fazenda_resgate.jpg</ImageUrl>
+      <Nome>Fazenda Resgate</Nome>
+      <SubTitulo>Fazenda Resgate</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        O Casarão da fazenda que hoje se faz presente na infra-estrutura do Hotel Fazenda Boa Vista como uma das partes principais, foi construído em meados de 1780. Nessa época a fazenda era uma importante produtora de Anil. Por volta de 1840, já sob administração do herdeiro Luciano José de Almeida, o café começou a ser o produto principal produzido nessas terras.
+        Possuindo nessa ocasião três mil e novecentos alqueires geométricos, era necessária a mão de obra de mais de mil escravos. Atualmente a área da fazenda está sendo utilizada no ramo turístico e hoteleiro. O Hotel Fazenda Boa Vista que recebe hóspedes de todas as regiões do país, nos leva a uma agradável viagem ao passado e nos oferece com simplicidade e ao mesmo tempo grandiosidade um serviço de qualidade exemplar.
+        O Hotel Fazenda Boa Vista, vem a tempos, servindo de cenário para filmagens de novelas, mini séries, e diversos casos especiais.
+        O casarão do Hotel Fazenda Boa Vista serviu de cenário para a gravação de várias novelas, entre elas está a Novela da Rede Globo "Sinhá Moça".
+      </Descricao>
+      <ID>Cat3_4</ID>
+      <ImageUrl>Assets/Items/Categoria3/boavista1.jpg</ImageUrl>
+      <Nome>Hotel Fazenda Boa Vista</Nome>
+      <SubTitulo>Hotel Fazenda Boa Vista</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+  </Items>
+  <Nome>Fazendas</Nome>
+  <SubTitulo>Fazendas Históricas</SubTitulo>
+</Categoria>

@@ -1,0 +1,56 @@
+﻿<Categoria xmlns="http://schemas.datacontract.org/2004/07/Win8Catalogo.Catalogo.Model" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <Descricao>
+    Com vales e montanhas, rios e cachoeiras, a Serra da Bocaina, com quase dois mil metros de altitude, ostenta um cenário de rara beleza, que pode ser admirado através de vários mirantes existentes, onde em alguns deles, podemos avistar a Baía de Angra dos Reis.
+    Na Serra da Bocaina encontramos o segundo maior trutário da América Latina.
+  </Descricao>
+  <ID>2</ID>
+  <ImageUrl>Assets/Categoria/bocaina003.jpg</ImageUrl>
+  <Items>
+    <Item>
+      <Descricao>
+        Acesso somente por trilha a 9 km da SP-247, km 33 – Formada pelo rio Paca Grande tem cinco saltos e 150m de extensão.
+      </Descricao>
+      <ID>Cat2_1</ID>
+      <ImageUrl>Assets/Items/Categoria2/cachoeira_do_bracui.jpg</ImageUrl>
+      <Nome>Cachoeira do Bracuí</Nome>
+      <SubTitulo>Cachoeira do Bracuí</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        Acesso pela Rod. SP-247, km 33 – localizada na serra do mar a uma altitude aproximada de 1.700m, sua vista panorâmica é de incomparável beleza, de um lado avista-se os campos da Bocaina e de outro o litoral de Angra dos Reis. Pela trilha razoavelmente simples pode-se chegar às cachoeiras do Bracuí, do Veado e Mambucaba, com uma caminhada de dois dias chegasse à vila do Frade em Angra dos Reis.
+      </Descricao>
+      <ID>Cat2_2</ID>
+      <ImageUrl>Assets/Items/Categoria2/pico_frade.jpg</ImageUrl>
+      <Nome>Pedra do Frade</Nome>
+      <SubTitulo>Pedra do Frade</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        No parque também é possível visitar, alguns trutários locais. Um deles é a Aqua, que já foi considerado o maior da América Latina, com laboratório e capacidade para 5 milhões de ovos. Visitando esse trutário, você ainda pode desfrutar de um pesque pague.
+      </Descricao>
+      <ID>Cat2_3</ID>
+      <ImageUrl>Assets/Items/Categoria2/trutario.jpg</ImageUrl>
+      <Nome>Trutário</Nome>
+      <SubTitulo>Trutário</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+    <Item>
+      <Descricao>
+        Partindo do centro histórico de Bananal-SP, o visitante segue em direção a Serra da Bocaina pela rodovia SP-247 até o km 15, entrando à esquerda, segue mais 6km em estrada de terra até chegar nas primeiras cinco quedas da cachoeira, as águas cristalinas do Rio do Braço descem formando um escorregor natural e ótimos poços para banho. Seguindo pela estrada de terra por mais 4km encontram-se as duas últimas quedas, já localizadas dentro da Estação Ecológica de Bananal-SP. A Estação Ecológica abriga remanescentes da Mata Atlântica, vegetação que já cobriu o litoral brasileiro de norte a sul. Os remanescentes dessa vegetação são tão importantes que foram declarados Patrimônio da Humanidade.
+      </Descricao>
+      <ID>Cat2_4</ID>
+      <ImageUrl>Assets/Items/Categoria2/sete_quedas.jpg</ImageUrl>
+      <Nome>Cachoeira 7 Quedas</Nome>
+      <SubTitulo>Cachoeira 7 Quedas</SubTitulo>
+      <Uri></Uri>
+      <Valor></Valor>
+    </Item>
+  </Items>
+  <Nome>Serra da Bocaina</Nome>
+  <SubTitulo>Serra e Cachoeiras</SubTitulo>
+</Categoria>
